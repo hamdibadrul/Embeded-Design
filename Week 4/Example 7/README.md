@@ -33,13 +33,13 @@ Simply complete the circuit connection according to the picture above. This is a
 <details>
 <summary>"Click to expand"</summary>
 
-  ![Code1](https://user-images.githubusercontent.com/73819661/98267627-8f1d9b80-1fc6-11eb-9f4a-e3641e9cd73c.PNG) 
-  
+  ![Code1](https://user-images.githubusercontent.com/73819661/98267627-8f1d9b80-1fc6-11eb-9f4a-e3641e9cd73c.PNG) </br>
   ![Code2](https://user-images.githubusercontent.com/73819661/98267903-dc017200-1fc6-11eb-8a4e-5b3942987c21.PNG) 
   
  I use Object Oriented Programming (OOP), thus that is the reason the code looks quite complex for 2 LEDs. The advantage of using OOP is you can add as many LED you want with different timing but using only one class function.
  Note that in the LED default function where it wrote **this-> pin = pin** is to assign the passed value to the private variable. We don't use delay() function, instead
- we need to use millis() to run two LEDs with different time. </br>
+ we need to use millis() to run two LEDs with different time. 
+ 
  You can look at the code here --> <a href="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%204/Example%207/Hamdi_Blink.ino"> Arduino Code </a>
  
 </details>

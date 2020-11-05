@@ -15,7 +15,7 @@ I am using internal pull up, hence I dont use any resistor in this tutorial
 
 Youtube link here: https://www.youtube.com/watch?v=uGfh0A5FXgg
 
-[![Example 7](https://img.youtube.com/vi/uGfh0A5FXgg/0.jpg)](https://www.youtube.com/watch?v=uGfh0A5FXgg)
+[![Example 8](https://img.youtube.com/vi/uGfh0A5FXgg/0.jpg)](https://www.youtube.com/watch?v=uGfh0A5FXgg)
 
 **Step 2 - Circuit Wiring**
 <details>

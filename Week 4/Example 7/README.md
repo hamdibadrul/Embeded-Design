@@ -6,7 +6,8 @@ This example uses Object Oriented Programming.
 LED 1 - On time = 750 ms  Off time = 350 ms</br>
 LED 2 - On time = 400 ms  Off time = 600 ms
 
-**Components needed:** </br>
+**Components needed:** 
+
 Arduino Nano/Uno </br>
 1 x 100 ohm Resistor </br>
 2 x LED </br>

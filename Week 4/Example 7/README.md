@@ -8,7 +8,7 @@ LED 2 - On time = 400 ms  Off time = 600 ms
 
 **Components needed:**  </br>
 Arduino Nano/Uno </br>
-1 x 100 ohm Resistor </br>
+1 x 200 ohm Resistor </br>
 2 x LED </br>
 1 x breadboard </br>
 1 x jumper male to male wire </br>

@@ -35,7 +35,7 @@ Simply complete the circuit connection according to the picture above. Note that
 ![Code2](https://user-images.githubusercontent.com/73819661/98274584-8f219980-1fce-11eb-80bc-94abb712b6b9.PNG) 
   
  I use Object Oriented Programming (OOP), thus the code look simpler for 5 buttons. As you can see, the initialization for each pin to be **INPUT_PULLUP** only written once and this
- is the beauty of OOP. Thus, in void setup function only need to write the Serial.begin() to display our result.
+ is the beauty of OOP. Thus, in void setup function only need to write the Serial.begin() to display the result.
  
  You can look at the code here --> <a href="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%204/Example%208/Hamdi_Button.ino"> Arduino Code </a>
  

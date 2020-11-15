@@ -53,7 +53,7 @@ Here is for ADCH and ADCL: </br>
 From these pictures, we can understand why the initialisation for each registers based on the requirement. Additionally, to understand more on ADC (adch and adcl), 
 you can refer to this link --> <a href="https://www.newbiehack.com/MicrocontrollersADC10Bits.aspx"> 10-bits from ADC </a>
 
- You can look at the code here --> <a href="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%205/Exercise%201/Hamdi_Potentiometer.ino"> Arduino Code </a>
+ You can look at the code here --> <a href="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%205/Exercise%202/Hamdi_Potentiometer_AVR_language.ino"> Arduino Code </a>
  
 </details>
 

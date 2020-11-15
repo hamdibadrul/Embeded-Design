@@ -8,13 +8,13 @@ Arduino Nano/Uno </br>
 1 x breadboard </br>
 3 x jumper male to male wire </br>
 
-*Step 1 - Video*
+**Step 1 - Video**
 
 Youtube link here: https://www.youtube.com/ExPfNaOeuCc
 
 [![Exercise 1](https://img.youtube.com/vi/ExPfNaOeuCc/0.jpg)](https://www.youtube.com/watch?v=ExPfNaOeuCc)
 
-*Step 2 - Circuit Wiring*
+**Step 2 - Circuit Wiring**
 <details>
 <summary>"Click to expand"</summary>
 <p align = "centre">
@@ -22,7 +22,7 @@ Youtube link here: https://www.youtube.com/ExPfNaOeuCc
  
 Simply complete the circuit connection according to the picture above. 
 
-*Step 3 - Arduino Programming*
+**Step 3 - Arduino Programming**
 
 <details>
 <summary>"Click to expand"</summary>
@@ -34,5 +34,5 @@ Simply complete the circuit connection according to the picture above.
 </details>
 
 
-*Step 4 - Conclusion* 
+**Step 4 - Conclusion** 
 This is a simple tutorial to read the value of ADC from arduino.

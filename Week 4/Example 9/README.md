@@ -15,7 +15,7 @@ The time for blinking on each LED is shown below. </br>
 
 **Step 1 - Video**
 
-Youtube link here: https://www.youtube.com/pMLOxV53doc
+Youtube link here: https://www.youtube.com/watch?v=pMLOxV53doc
 
 [![Example 9](https://img.youtube.com/vi/pMLOxV53doc/0.jpg)](https://www.youtube.com/watch?v=pMLOxV53doc)
 

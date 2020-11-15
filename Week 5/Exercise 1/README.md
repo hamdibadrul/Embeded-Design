@@ -18,7 +18,7 @@ Youtube link here: https://www.youtube.com/watch?v=ExPfNaOeuCc
 <details>
 <summary>"Click to expand"</summary>
 <p align = "centre">
-  ![Potentiometer Circuit fritzing picture](https://user-images.githubusercontent.com/73819661/99188618-c72b9800-2797-11eb-8c45-413a47df45be.PNG)   <img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%204/Example%207/Actual%20LED%20Circuit.jpeg" width = "400" height = "600" />
+  ![Potentiometer Circuit fritzing picture](https://user-images.githubusercontent.com/73819661/99189238-32c33480-279b-11eb-8221-158d54f87a16.PNG)   <img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%204/Example%207/Actual%20LED%20Circuit.jpeg" width = "400" height = "600" />
  
 Simply complete the circuit connection according to the picture above. 
 

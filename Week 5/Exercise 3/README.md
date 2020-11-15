@@ -8,13 +8,13 @@ Arduino Nano/Uno </br>
 1 x breadboard </br>
 3 x jumper male to male wire </br>
 
-*Step 1 - Video*
+**Step 1 - Video**
 
 Youtube link here: https://www.youtube.com/watch?v=UaEnTvrmgeM
 
 [![Exercise 1](https://img.youtube.com/vi/UaEnTvrmgeM/0.jpg)](https://www.youtube.com/watch?v=UaEnTvrmgeM)
 
-*Step 2 - Circuit Wiring*
+**Step 2 - Circuit Wiring**
 
 <details>
 <summary>"Click to expand"</summary>
@@ -27,7 +27,7 @@ Simply complete the circuit connection according to the picture above. </br>
 You can download the fritzing file here --> <a href="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%205/potentionmeter%20fritzing%20connection.fzz"> Fritzing File (.fzz) </a>
 </details>
 
-*Step 3 - Arduino Programming*
+**Step 3 - Arduino Programming**
 
 <details>
 <summary>"Click to expand"</summary>
@@ -49,6 +49,6 @@ So, when we do this, we dont have to write *adcsra|=0b01000000; in loop function
 </details>
 
 
-*Step 4 - Conclusion* 
+**Step 4 - Conclusion**
 
 This is a simple tutorial to read the value of ADC from arduino using AVR language.

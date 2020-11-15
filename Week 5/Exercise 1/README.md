@@ -24,6 +24,7 @@ Youtube link here: https://www.youtube.com/watch?v=ExPfNaOeuCc
  
 Simply complete the circuit connection according to the picture above. </br>
 You can download the fritzing file here --> <a href="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%205/potentionmeter%20fritzing%20connection.fzz"> Fritzing File (.fzz) </a>
+</details>
 
 **Step 3 - Arduino Programming**
 

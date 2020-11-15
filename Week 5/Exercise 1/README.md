@@ -10,7 +10,7 @@ Arduino Nano/Uno </br>
 
 **Step 1 - Video**
 
-Youtube link here: https://www.youtube.com/ExPfNaOeuCc
+Youtube link here: https://www.youtube.com/watch?v=ExPfNaOeuCc
 
 [![Exercise 1](https://img.youtube.com/vi/ExPfNaOeuCc/0.jpg)](https://www.youtube.com/watch?v=ExPfNaOeuCc)
 

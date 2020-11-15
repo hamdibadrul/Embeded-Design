@@ -19,6 +19,7 @@ Youtube link here: https://www.youtube.com/watch?v=pint2CxllqY
 [![Exercise 1](https://img.youtube.com/vi/pint2CxllqY/0.jpg)](https://www.youtube.com/watch?v=pint2CxllqY)
 
 **Step 2 - Circuit Wiring**
+
 <details>
 <summary>"Click to expand"</summary>
 
@@ -58,4 +59,5 @@ you can refer to this link --> <a href="https://www.newbiehack.com/Microcontroll
 
 
 **Step 4 - Conclusion** 
+
 This is a simple tutorial to read the value of ADC from arduino using AVR language.

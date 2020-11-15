@@ -20,7 +20,7 @@ Youtube link here: https://www.youtube.com/watch?v=ExPfNaOeuCc
 
 <p align = "centre">
   
-<img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%205/Potentiometer%20Circuit%20fritzing%20picture.PNG" width = "400" height = "600" /> <img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%205/Potentiometer%20Circuit.jpeg" width = "500" height = "400" />
+<img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%205/Potentiometer%20Circuit%20fritzing%20picture.PNG" width = "400" height = "600" /> <img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%205/Potentiometer%20Circuit.jpeg" width = "500" height = "500" />
  
 Simply complete the circuit connection according to the picture above. </br>
 You can download the fritzing file here --> <a href="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%205/potentionmeter%20fritzing%20connection.fzz"> Fritzing File (.fzz) </a>

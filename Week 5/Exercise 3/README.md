@@ -35,14 +35,14 @@ You can download the fritzing file here --> <a href="https://github.com/hamdibad
 ![Code 3](https://user-images.githubusercontent.com/73819661/99190318-d7944080-27a0-11eb-98fc-d597cef2d4a3.PNG)
 
 To initialize admux, adcsra, adch and adcl must look at their datasheet to understand which bits to be set. </br>
-You can see all the datasheet in <a href="https://github.com/hamdibadrul/Embeded-Design/tree/main/Week%205/Exercise%202"> Exercise 2 </a> </br>
+You can see all the datasheet in <a href="https://github.com/hamdibadrul/Embeded-Design/tree/main/Week%205/Exercise%202"> Exercise 2 </a> under step 3 section. </br>
 The only modification made is in  adcsra initialization.
 
 Here is for ADSCRA: </br>
 ![ADCSRA](https://user-images.githubusercontent.com/73819661/99189855-63589d80-279e-11eb-8aee-37f878b7ec5f.PNG)
 ![ADSCRA 2](https://user-images.githubusercontent.com/73819661/99189853-62277080-279e-11eb-9643-eefe0fb0db88.PNG)
 
-So, when we do this, we dont have to write *adcsra|=0b01000000; in loop function to start conversion of ADC because it is automatically triggered the conversion.
+So, when we do this, we dont have to write adcsra|=0b01000000; in loop function to start conversion of ADC because it is automatically triggered the conversion.
 
  You can look at the code here --> <a href="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%205/Exercise%203/Hamdi_Potentio_Auto_Trigger_AVR_language.ino"> Arduino Code </a>
  

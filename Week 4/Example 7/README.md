@@ -15,7 +15,7 @@ Arduino Nano/Uno </br>
 
 **Step 1 - Video**
 
-Youtube link here: https://www.youtube.com/F-5wCH4B69Y
+Youtube link here: https://www.youtube.com/watch?v=F-5wCH4B69Y
 
 [![Example 7](https://img.youtube.com/vi/F-5wCH4B69Y/0.jpg)](https://www.youtube.com/watch?v=F-5wCH4B69Y)
 

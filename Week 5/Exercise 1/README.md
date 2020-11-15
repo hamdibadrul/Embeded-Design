@@ -17,9 +17,10 @@ Youtube link here: https://www.youtube.com/watch?v=ExPfNaOeuCc
 **Step 2 - Circuit Wiring**
 <details>
 <summary>"Click to expand"</summary>
+
 <p align = "centre">
-  ![Potentiometer Circuit fritzing picture](https://user-images.githubusercontent.com/73819661/99189238-32c33480-279b-11eb-8221-158d54f87a16.PNG)   
-  <img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%205/Potentiometer%20Circuit.jpeg" width = "400" height = "600" />
+  
+<img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%205/Potentiometer%20Circuit%20fritzing%20picture.PNG" width = "400" height = "600" /> <img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%205/Potentiometer%20Circuit.jpeg" width = "400" height = "600" />
  
 Simply complete the circuit connection according to the picture above. 
 

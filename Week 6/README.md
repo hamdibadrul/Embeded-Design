@@ -1,11 +1,5 @@
 # LED brightness with Potentiometer (PWM) 
 
-This tutorial will show you how to write a program that continuously prints out the analog value of PC3 through the serial port. Assume the followings: </br>
-•The clock speed of the microcontroller is 16MHz </br>
-•The desired clock speed of ADC is 125 kHz. </br>
-•Use AVCC as analog reference. </br>
-•On-demand mode </br>
-
 Components needed: </br>
 Arduino Nano/Uno </br>
 1 x 10k ohm Potentiometer </br>
@@ -14,13 +8,13 @@ Arduino Nano/Uno </br>
 1 x LED </br>
 1 x 200 ohm resistor </br>
 
-*Step 1 - Video*
+**Step 1 - Video**
 
 Youtube link here: https://www.youtube.com/watch?v=RHOxckYdCNs
 
 [![Exercise 1](https://img.youtube.com/vi/RHOxckYdCNs/0.jpg)](https://www.youtube.com/watch?v=RHOxckYdCNs)
 
-*Step 2 - Circuit Wiring*
+**Step 2 - Circuit Wiring**
 
 <details>
 <summary>"Click to expand"</summary>
@@ -32,7 +26,7 @@ Youtube link here: https://www.youtube.com/watch?v=RHOxckYdCNs
 Simply complete the circuit connection according to the picture above. </br>
 </details>
 
-*Step 3 - Arduino Programming*
+**Step 3 - Arduino Programming**
 
 <details>
 <summary>"Click to expand"</summary>
@@ -48,6 +42,6 @@ You can refer the code here --> <a href="https://github.com/hamdibadrul/Embeded-
 </details>
 
 
-*Step 4 - Conclusion* 
+**Step 4 - Conclusion**
 
 This tutorial shows how to control LED brightness using PWM pins with potentiometer.

@@ -21,7 +21,7 @@ Youtube link here: https://www.youtube.com/watch?v=RHOxckYdCNs
 
 <p align = "centre">
   
-<img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%206/Cicuit%20fritzing.PNG" width = "400" height = "600" /> <img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%206/Circuit.jpeg" width = "500" height = "500" />
+<img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%206/Cicuit%20fritzing.PNG" width = "300" height = "600" /> <img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%206/Circuit.jpeg" width = "400" height = "500" />
  
 Simply complete the circuit connection according to the picture above. </br>
 </details>

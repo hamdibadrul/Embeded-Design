@@ -1,5 +1,8 @@
 # Interrupt Tutorial with Arduino Nano 
 
+In this tutorial, 3 LED's will be light up accordingly with delay (each LED 2 seconds LIGHT UP). The 4th LED act like an emergency button whenever the button is pressed.
+Suppose even when the button is pressed, the code will finish the others first with delay. However, with interrupt pin, we can execute immediately. 
+
 Components needed: </br>
 Arduino Nano/Uno </br>
 1 x 1k ohm Potentiometer </br>

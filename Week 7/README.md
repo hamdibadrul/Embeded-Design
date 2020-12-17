@@ -20,7 +20,7 @@ Youtube link here: https://www.youtube.com/watch?v=sB3w2-msP_g
 
 <p align = "centre">
   
-<img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%207/Fritzing%20picture.PNG" width = "500" height = "500" /> <img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%207/Circuit.jpeg" width = "400" height = "600" />
+<img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%207/Fritzing%20picture.PNG" width = "500" height = "500" /> <img src="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%207/Circuit.jpeg" width = "450" height = "600" />
  
 Simply complete the circuit connection according to the picture above. </br>
 </details>

@@ -6,7 +6,7 @@ Arduino Nano/Uno </br>
 
 **Step 1 - Video**
 
-Youtube link here: https://www.youtube.com/watch?v=wp5FtGw4-8Y&feature=youtu.be
+Youtube link here: https://www.youtube.com/watch?v=wp5FtGw4-8Y
 
 [![Exercise 1](https://img.youtube.com/vi/wp5FtGw4-8Y&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=wp5FtGw4-8Y&feature=youtu.be)
 
@@ -16,8 +16,6 @@ There is no circuit needed in this tutorial. You just need to connect your ardui
 
 **Step 3 - Arduino Programming**
 
-<summary>"Click to expand"</summary>
-
 You can look at the code here --> <a href="https://github.com/hamdibadrul/Embeded-Design/blob/main/Week%208/EEPROM.ino"> Arduino Code </a> 
 
 ![Code](https://user-images.githubusercontent.com/73819661/103474523-ca2e2680-4ddf-11eb-9d7e-82dbfefbebe2.PNG)
@@ -26,7 +24,6 @@ From this code, the results will show you two values in serial print. One is for
 When reset button is pressed, the value of count will be reset to zero while the value stored in EEPROM will continue based on previous before it is reset.
 The value stored in EEPROM will only be reset to zero if it reaches the 255.
  
-</details>
-
 **Step 4 - Conclusion** 
+
 This tutorial shows that EEPROM is a type of non-volatile memory.

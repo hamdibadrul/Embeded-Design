@@ -6,9 +6,9 @@ Arduino Nano/Uno </br>
 
 **Step 1 - Video**
 
-Youtube link here: https://www.youtube.com/watch?v=wp5FtGw4-8Y
+Youtube link here: https://www.youtube.com/watch?v=wp5FtGw4-8Y&feature=youtu.be
 
-[![Exercise 1](https://img.youtube.com/vi/wp5FtGw4-8Y&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=wp5FtGw4-8Y&feature=youtu.be)
+[![Exercise 1](https://img.youtube.com/vi/wp5FtGw4-8Y/0.jpg)](https://www.youtube.com/watch?v=wp5FtGw4-8Y&feature=youtu.be)
 
 **Step 2 - Circuit Wiring**
 

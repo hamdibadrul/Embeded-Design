@@ -7,13 +7,13 @@ Arduino Uno </br>
 1 x Button </br>
 8 x jumper male to male wire </br>
 
-*Step 1 - Video*
+**Step 1 - Video**
 
 Youtube link here: https://www.youtube.com/watch?v=VSc9l0q6Va4
 
 [![Exercise 1](https://img.youtube.com/vi/VSc9l0q6Va4/0.jpg)](https://www.youtube.com/watch?v=VSc9l0q6Va4)
 
-*Step 2 - Circuit Wiring*
+**Step 2 - Circuit Wiring**
 
 <details>
 <summary>"Click to expand"</summary>
@@ -25,7 +25,7 @@ Youtube link here: https://www.youtube.com/watch?v=VSc9l0q6Va4
 Simply complete the circuit connection according to the picture above. </br>
 </details>
 
-*Step 3 - Arduino Programming*
+**Step 3 - Arduino Programming**
 
 <details>
 <summary>"Click to expand"</summary>
@@ -42,6 +42,6 @@ As you can see, this is my LCD address, however, you might get different adress.
 </details>
 
 
-*Step 4 - Conclusion* 
+**Step 4 - Conclusion** 
 
 This tutorial shows a flappy bird game using LCD and button with arduino. Note that we need to use interrupt pin for button.
